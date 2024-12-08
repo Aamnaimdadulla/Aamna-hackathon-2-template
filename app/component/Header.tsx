@@ -5,7 +5,7 @@ import Link from "next/link";  // Import for Link
 import { IoSearch } from "react-icons/io5";  // Import for search icon
 import { CgProfile } from "react-icons/cg";  // Import for profile icon
 import { MdOutlineShoppingCart } from "react-icons/md";  // Import for shopping cart icon
-import Image from "next/image";  // Import for Next.js Image component
+
 
 // Header Component
 const Header = () => {
